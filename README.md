@@ -9,3 +9,9 @@ implemented using a queue data structure
 ability to convert currency
 
 tested usin junit and sikuli (GUI testing) APIs
+
+you can read the report.pdf
+
+video of the GUI testing
+
+https://youtu.be/ShEAGcAirCo
