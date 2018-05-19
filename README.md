@@ -10,7 +10,7 @@ ability to convert currency
 
 tested usin junit and sikuli (GUI testing) APIs
 
-you can read the report.pdf
+you can read the Software Testing Report.pdf
 
 video of the GUI testing
 
