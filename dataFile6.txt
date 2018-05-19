@@ -1,0 +1,6 @@
+user6
+6
+123
+10000.0
+Standard
+true

@@ -1,0 +1,6 @@
+keronagy
+22
+123
+5000.0
+Standard
+true

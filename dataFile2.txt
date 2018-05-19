@@ -1,0 +1,6 @@
+user2
+2
+123
+1200.0
+Standard
+true

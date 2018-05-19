@@ -1,0 +1,6 @@
+daf
+15
+sca
+11002.0
+Standard
+true

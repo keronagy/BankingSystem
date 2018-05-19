@@ -1,0 +1,6 @@
+kmkm
+9
+123
+1231.0
+Standard
+true

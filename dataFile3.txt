@@ -1,0 +1,6 @@
+user3
+3
+123
+5900.0
+Standard
+true

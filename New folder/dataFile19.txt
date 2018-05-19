@@ -1,0 +1,6 @@
+ky
+19
+123
+666.0
+Standard
+true

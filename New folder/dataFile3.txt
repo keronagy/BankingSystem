@@ -1,0 +1,6 @@
+karim
+3
+1234
+30234.0
+Standard
+false

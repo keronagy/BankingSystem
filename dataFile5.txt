@@ -1,0 +1,6 @@
+user5
+5
+123
+0.0
+Standard
+true

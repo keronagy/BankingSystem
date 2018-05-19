@@ -1,0 +1,6 @@
+kk
+21
+123
+333.0
+Standard
+true

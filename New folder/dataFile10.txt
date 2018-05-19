@@ -1,0 +1,6 @@
+koko
+10
+koko
+2414124.0
+Standard
+true

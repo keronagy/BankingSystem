@@ -1,0 +1,6 @@
+mina
+7
+1234
+1545.0
+Standard
+true

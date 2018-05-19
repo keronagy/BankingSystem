@@ -1,0 +1,6 @@
+ojoijo
+20
+123
+88.0
+Standard
+true

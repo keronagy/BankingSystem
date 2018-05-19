@@ -1,0 +1,6 @@
+dgs
+14
+1234
+1.0
+Standard
+true

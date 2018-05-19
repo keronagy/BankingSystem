@@ -1,0 +1,6 @@
+ddsf
+8
+1234
+6546.0
+Standard
+true

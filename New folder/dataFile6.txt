@@ -1,0 +1,6 @@
+Nokrashi basha
+6
+123456
+30000.0
+VIP
+true
